@@ -1,0 +1,8 @@
+{
+  "name": "Hệ thống Phòng họp Không giấy",
+  "description": "Ứng dụng quản lý tài liệu và nội dung họp trực tuyến chuyên nghiệp, tích hợp AI để tóm tắt nội dung.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
